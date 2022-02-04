@@ -22,7 +22,7 @@ Light Page:\
 The light page is used primarily to pair with the Brighten1, our light therapy lamp. Simply pressing the start button followed by the pause button will allow you to turn on and off the light therapy lamp (to start and stop your sessions). The 25 minute timer is meant to help ensure that you are using the lamp for 25 minutes daily for optimal results.\
 \
 General \
-To make the most of our application be sure to accept bluetooth, location, steps, and sleep tracking within the app. This is to ensure you are able to pair with our light therapy lamp, as well as track your physical activity, and your sleep quality through the daily generated scores. At any point you will be able to log-out from the app by pressing the 'logout' button on the bottom of the dashboard page.
+To make the most of our application be sure to accept bluetooth, location, steps, and sleep tracking within the app. This is to ensure you are able to pair with our light therapy lamp, as well as track your physical activity, and your sleep quality through the daily generated scores. However, the choice is yours so please enable what you are comfortable with. At any point you will be able to log-out from the app by pressing the 'logout' button on the bottom of the dashboard page.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 If you have any problems, questions, or concerns contact a member of the team at: brightenhealthteam@gmail.com and we will be happy to assist you!
